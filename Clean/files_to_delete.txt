@@ -1,0 +1,15 @@
+.\Library\ArtifactDB
+.\Library\ArtifactDB-lock
+.\Library\ShaderCache.db
+.\Library\SourceAssetDB
+.\Library\SourceAssetDB-lock
+.\Library\BuildPlayer.prefs
+.\Library\expandedItems
+.\Library\LastBuild.buildreport
+.\Library\ScriptMapper
+.\Library\Style.catalog
+.\Library\AnnotationManager
+.\.vsconfig
+.\.gitignore
+.\.gitattributes
+.\.gitmodules
