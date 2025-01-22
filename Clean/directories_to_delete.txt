@@ -37,3 +37,4 @@
 .\Library\Bee
 .\Library\StateCache
 .\Library\SplashScreenCache
+.\Library\metadata
