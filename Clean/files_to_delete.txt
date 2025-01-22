@@ -13,3 +13,4 @@
 .\.gitignore
 .\.gitattributes
 .\.gitmodules
+.\RegisterIcalls.cpp
