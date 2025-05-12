@@ -1,0 +1,15 @@
+D:\Project\Unity3D_Clean\bin\Release\net8.0\UnityClean.exe
+D:\Project\Unity3D_Clean\bin\Release\net8.0\UnityClean.deps.json
+D:\Project\Unity3D_Clean\bin\Release\net8.0\UnityClean.runtimeconfig.json
+D:\Project\Unity3D_Clean\bin\Release\net8.0\UnityClean.dll
+D:\Project\Unity3D_Clean\bin\Release\net8.0\UnityClean.pdb
+D:\Project\Unity3D_Clean\obj\Release\net8.0\UnityClean.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Unity3D_Clean\obj\Release\net8.0\UnityClean.AssemblyInfoInputs.cache
+D:\Project\Unity3D_Clean\obj\Release\net8.0\UnityClean.AssemblyInfo.cs
+D:\Project\Unity3D_Clean\obj\Release\net8.0\UnityClean.csproj.CoreCompileInputs.cache
+D:\Project\Unity3D_Clean\obj\Release\net8.0\UnityClean.sourcelink.json
+D:\Project\Unity3D_Clean\obj\Release\net8.0\UnityClean.dll
+D:\Project\Unity3D_Clean\obj\Release\net8.0\refint\UnityClean.dll
+D:\Project\Unity3D_Clean\obj\Release\net8.0\UnityClean.pdb
+D:\Project\Unity3D_Clean\obj\Release\net8.0\UnityClean.genruntimeconfig.cache
+D:\Project\Unity3D_Clean\obj\Release\net8.0\ref\UnityClean.dll
